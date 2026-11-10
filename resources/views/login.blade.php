@@ -9,7 +9,7 @@
 
         <form method="GET" action="{{ route('dashboard') }}">
             <label for="username">Username</label>
-            <input id="username" name="username" type="text" placeholder="Contoh: Nadia" required>
+            <input id="username" name="username" type="text" placeholder="Masukkan Username" required>
 
             <label for="password">Password</label>
             <input id="password" name="password" type="password" placeholder="Masukkan password" required>
