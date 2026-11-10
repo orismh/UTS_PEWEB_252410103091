@@ -2,7 +2,7 @@
 
 ## Academic Task & Project Progress Tracker for Teams
 
-Aplikasi sederhana berbasis **Laravel 13** dan **Blade** untuk memantau tugas, proyek, modul pembelajaran, serta profil tim akademik.
+Aplikasi sederhana  untuk memantau tugas, proyek, modul pembelajaran, serta profil tim akademik.
 
 ### Fitur
 
