@@ -26,15 +26,6 @@ resources/views/components/navbar.blade.php
 resources/views/components/footer.blade.php
 ```
 
-### Menjalankan di Laragon
-
-```bash
-cd "C:\laragon\www\PEWEB UTS (Versi Praktikum)"
-php artisan serve
-```
-
-Buka `http://127.0.0.1:8000/login`.
-
 ### Catatan
 
 - File `.env`, `vendor`, dan `node_modules` tidak disertakan ke repository.
